@@ -25,10 +25,7 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Morfin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=morfin372&show_icons=true&hide_border=true" />
-</details>
+![Morfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=morfin372&show_icons=true&theme=dark)
 
 [website]: https://sosyprism.com
 [instagram]: https://instagram.com/extbully
