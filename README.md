@@ -1,6 +1,6 @@
 ### Hi there, I'm - [Morfin][website] 👋
 
-[![Website](https://img.shields.io/website?label=f3lixblack.com&style=for-the-badge&url=https://sosyprism.com)](https://sosyprism.com)
+[![Website](https://img.shields.io/website?label=sosyprism.com&style=for-the-badge&url=https://sosyprism.com)](https://sosyprism.com)
 
 
 
